@@ -1,0 +1,23 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@font-face {
+  font-family: "OakesGroteskRegular";
+  src: local("OakesGroteskRegular"),
+    url(./fonts/Oakes-Grotesk-Regular.ttf) format("truetype");
+}
+@font-face {
+  font-family: "OakesGroteskBold";
+  src: local("OakesGroteskBold"),
+    url(./fonts/Oakes-Grotesk-Bold.ttf) format("truetype");
+}
+@font-face {
+  font-family: "OakesGroteskMedium";
+  src: local("OakesGroteskMedium"),
+    url(./fonts/Oakes-Grotesk-Medium.ttf) format("truetype");
+}
+@font-face {
+  font-family: "OakesGroteskLight";
+  src: local("OakesGroteskLight"),
+    url(./fonts/Oakes-Grotesk-Light.ttf) format("truetype");
+}
