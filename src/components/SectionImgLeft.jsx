@@ -70,11 +70,15 @@ const SectionImgLeft = (props) => {
   }, []);
   return (
     <Section className=" prose-sm md:prose-lg w-full text-gray-100">
-      <ImgDiv background={props.background} data-aos="fade-up"></ImgDiv>
+      <ImgDiv
+        background={props.background}
+        data-aos="fade-up"
+        className=""
+      ></ImgDiv>
       <RightDiv className={props.bg}>
         <div data-aos="fade-down">
           <h2>{props.title}</h2>
-          <p className="whitespace-pre-line break-all">{props.content}</p>
+          <p className="whitespace-pre-line break-all ">{props.content}</p>
         </div>
       </RightDiv>
     </Section>

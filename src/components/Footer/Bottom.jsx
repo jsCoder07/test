@@ -23,7 +23,11 @@ const Bottom = () => {
   return (
     <Section>
       <LeftDiv>
-        Wab Hotel <Link to="/nkem"> 2022</Link>. All rights reserved
+        Wab Hotel{" "}
+        <Link to="/nkem" className="inline">
+          &nbsp; 2022
+        </Link>
+        . All rights reserved
       </LeftDiv>
     </Section>
   );

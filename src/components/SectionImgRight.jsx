@@ -69,7 +69,7 @@ const SectionImgRight = (props) => {
   }, []);
   return (
     <Section className=" prose-sm md:prose-lg w-full text-gray-100 bg-zinc-900">
-      <LeftDiv>
+      <LeftDiv className="mt-[32rem] md:mt-auto">
         <div data-aos="fade-up">
           <h1 className="text-yellow-600">{props.main}</h1>
           <h2 className="text-yellow-600">{props.title}</h2>

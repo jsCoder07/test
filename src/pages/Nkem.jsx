@@ -4,17 +4,15 @@ import HomeImg2 from "../images/optized/nkem.jpg";
 
 const Nkem = () => {
   return (
-    <div className="flex justify-center items-center w-full h-screen">
-      <SectionImgLeft
-        className="w-full bg-zinc-900 text-gray-200"
-        title="Nkem Ogban"
-        background={HomeImg2}
-        bg="bg-zinc-900"
-        content={
-          "Join Nkem every Thursday on youtube as she talks about self love, hapiness and living a life filled to the brim with your maximum potential."
-        }
-      />
-    </div>
+    <SectionImgLeft
+      className="w-full bg-zinc-900 text-gray-200"
+      title="Nkem Ogban"
+      background={HomeImg2}
+      bg="bg-zinc-900"
+      content={
+        "Join Nkem every Thursday on youtube as she talks about self love, hapiness and living a life filled to the brim with your maximum potential."
+      }
+    />
   );
 };
 
