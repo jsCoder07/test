@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/wabhotel/static/css/main.3b6eeccb.css",
-    "main.js": "/wabhotel/static/js/main.e7be72f3.js",
+    "main.css": "/wabhotel/static/css/main.1e9a92cc.css",
+    "main.js": "/wabhotel/static/js/main.6ea8fa37.js",
     "static/media/hompool.jpg": "/wabhotel/static/media/hompool.bd7841edb23dbbf6a891.jpg",
     "static/media/executive.jpg": "/wabhotel/static/media/executive.f32d27c9ea96e38014d9.jpg",
     "static/media/laundry.jpg": "/wabhotel/static/media/laundry.0f71331bdca39214cee7.jpg",
@@ -39,11 +39,11 @@
     "static/media/logom.png": "/wabhotel/static/media/logom.9ecc76fabe8c639c359d.png",
     "static/media/nkem.jpg": "/wabhotel/static/media/nkem.f26f1694490948cf6291.jpg",
     "index.html": "/wabhotel/index.html",
-    "main.3b6eeccb.css.map": "/wabhotel/static/css/main.3b6eeccb.css.map",
-    "main.e7be72f3.js.map": "/wabhotel/static/js/main.e7be72f3.js.map"
+    "main.1e9a92cc.css.map": "/wabhotel/static/css/main.1e9a92cc.css.map",
+    "main.6ea8fa37.js.map": "/wabhotel/static/js/main.6ea8fa37.js.map"
   },
   "entrypoints": [
-    "static/css/main.3b6eeccb.css",
-    "static/js/main.e7be72f3.js"
+    "static/css/main.1e9a92cc.css",
+    "static/js/main.6ea8fa37.js"
   ]
 }
