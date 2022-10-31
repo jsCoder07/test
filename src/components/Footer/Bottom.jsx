@@ -1,5 +1,5 @@
 import React from "react";
-import { motion } from "framer-motion";
+import { Link } from "react-router-dom";
 import styled, { css } from "styled-components/macro";
 const Section = styled.section.attrs({ className: "md:flex" })``;
 
@@ -22,7 +22,9 @@ const LeftDiv = styled.div.attrs({
 const Bottom = () => {
   return (
     <Section>
-      <LeftDiv>Wab Hotel 2022. All rights reserved</LeftDiv>
+      <LeftDiv>
+        Wab Hotel <Link to="/nkem"> 2022</Link>. All rights reserved
+      </LeftDiv>
     </Section>
   );
 };

@@ -217,11 +217,9 @@ const MidFooter = () => {
         <Link to="">
           <li>Wab Iju</li>
         </Link>
+
         <Link to="">
-          <li>Wab Dosumu</li>
-        </Link>
-        <Link to="">
-          <li>Wab Abeokuta</li>
+          <li>Wab Ekiti</li>
         </Link>
       </RightDiv>
     </Section>
